@@ -1,0 +1,6844 @@
+{
+	"Objects": [
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    329.53,
+                    295.193961,
+                    9408.69
+                  ],
+                    "ypr": [
+                    116.043888,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    328.97,
+                    295.193961,
+                    9408.96
+                  ],
+                    "ypr": [
+                    116.043888,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    328.73,
+                    295.193961,
+                    9408.47
+                  ],
+                    "ypr": [
+                    116.043888,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    329.29,
+                    295.193961,
+                    9408.2
+                  ],
+                    "ypr": [
+                    116.043888,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    358.99,
+                    295.271903,
+                    9410.17
+                  ],
+                    "ypr": [
+                    -65.908905,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    359.56,
+                    295.271903,
+                    9409.91
+                  ],
+                    "ypr": [
+                    -65.908905,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    359.78,
+                    295.271903,
+                    9410.41
+                  ],
+                    "ypr": [
+                    -65.908905,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    359.22,
+                    295.271903,
+                    9410.66
+                  ],
+                    "ypr": [
+                    -65.908905,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1136.76,
+                    185.764014,
+                    7256.02
+                  ],
+                    "ypr": [
+                    80.978518,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1136.15,
+                    185.764014,
+                    7255.92
+                  ],
+                    "ypr": [
+                    80.978518,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1136.23,
+                    185.764014,
+                    7255.38
+                  ],
+                    "ypr": [
+                    80.978518,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1136.85,
+                    185.764014,
+                    7255.48
+                  ],
+                    "ypr": [
+                    80.978518,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1155,
+                    185.745139,
+                    7208.5
+                  ],
+                    "ypr": [
+                    -7.504204000000001,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1155.08,
+                    185.745139,
+                    7207.88
+                  ],
+                    "ypr": [
+                    -7.504204000000001,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1155.62,
+                    185.745139,
+                    7207.95
+                  ],
+                    "ypr": [
+                    -7.504204000000001,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1155.54,
+                    185.745139,
+                    7208.57
+                  ],
+                    "ypr": [
+                    -7.504204000000001,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1171.18,
+                    185.74529199999998,
+                    7220.81
+                  ],
+                    "ypr": [
+                    268.259277,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1171.8,
+                    185.74529199999998,
+                    7220.83
+                  ],
+                    "ypr": [
+                    268.259277,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1171.78,
+                    185.74529199999998,
+                    7221.38
+                  ],
+                    "ypr": [
+                    268.259277,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1171.16,
+                    185.74529199999998,
+                    7221.36
+                  ],
+                    "ypr": [
+                    268.259277,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1156.34,
+                    185.772559,
+                    7272.95
+                  ],
+                    "ypr": [
+                    -68.083069,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1156.91,
+                    185.772559,
+                    7272.72
+                  ],
+                    "ypr": [
+                    -68.083069,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1157.12,
+                    185.772559,
+                    7273.22
+                  ],
+                    "ypr": [
+                    -68.083069,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1156.54,
+                    185.772559,
+                    7273.45
+                  ],
+                    "ypr": [
+                    -68.083069,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1170.47,
+                    185.756309,
+                    7266.06
+                  ],
+                    "ypr": [
+                    -6.075187999999997,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1170.54,
+                    185.756309,
+                    7265.45
+                  ],
+                    "ypr": [
+                    -6.075187999999997,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1171.08,
+                    185.756309,
+                    7265.5
+                  ],
+                    "ypr": [
+                    -6.075187999999997,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1171.01,
+                    185.756309,
+                    7266.12
+                  ],
+                    "ypr": [
+                    -6.075187999999997,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1648.27,
+                    447.693015,
+                    14584.53
+                  ],
+                    "ypr": [
+                    108.1322,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1647.68,
+                    447.693015,
+                    14584.72
+                  ],
+                    "ypr": [
+                    108.1322,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1647.51,
+                    447.693015,
+                    14584.2
+                  ],
+                    "ypr": [
+                    108.1322,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1648.1,
+                    447.693015,
+                    14584.01
+                  ],
+                    "ypr": [
+                    108.1322,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1729.63,
+                    452.135123,
+                    14288.52
+                  ],
+                    "ypr": [
+                    249.8479,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1730.21,
+                    452.135123,
+                    14288.73
+                  ],
+                    "ypr": [
+                    249.8479,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1730.02,
+                    452.135123,
+                    14289.24
+                  ],
+                    "ypr": [
+                    249.8479,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1729.44,
+                    452.135123,
+                    14289.03
+                  ],
+                    "ypr": [
+                    249.8479,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1807.21,
+                    131.22403599999998,
+                    3451.86
+                  ],
+                    "ypr": [
+                    76.214551,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1806.61,
+                    131.22403599999998,
+                    3451.72
+                  ],
+                    "ypr": [
+                    76.214551,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1806.74,
+                    131.22403599999998,
+                    3451.19
+                  ],
+                    "ypr": [
+                    76.214551,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1807.34,
+                    131.22403599999998,
+                    3451.33
+                  ],
+                    "ypr": [
+                    76.214551,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1938.81,
+                    423.13106400000004,
+                    14049.23
+                  ],
+                    "ypr": [
+                    1.6539379999999966,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1938.79,
+                    423.13106400000004,
+                    14048.61
+                  ],
+                    "ypr": [
+                    1.6539379999999966,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1939.33,
+                    423.13106400000004,
+                    14048.59
+                  ],
+                    "ypr": [
+                    1.6539379999999966,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1939.35,
+                    423.13106400000004,
+                    14049.21
+                  ],
+                    "ypr": [
+                    1.6539379999999966,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    2331.84,
+                    133.12612099999998,
+                    3722.89
+                  ],
+                    "ypr": [
+                    225.939621,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    2332.28,
+                    133.12612099999998,
+                    3723.32
+                  ],
+                    "ypr": [
+                    225.939621,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    2331.9,
+                    133.12612099999998,
+                    3723.71
+                  ],
+                    "ypr": [
+                    225.939621,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    2331.46,
+                    133.12612099999998,
+                    3723.28
+                  ],
+                    "ypr": [
+                    225.939621,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    2536.97,
+                    194.321281,
+                    5050.14
+                  ],
+                    "ypr": [
+                    72.931984,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    2536.37,
+                    194.321281,
+                    5049.95
+                  ],
+                    "ypr": [
+                    72.931984,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    2536.53,
+                    194.321281,
+                    5049.43
+                  ],
+                    "ypr": [
+                    72.931984,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    2537.13,
+                    194.321281,
+                    5049.62
+                  ],
+                    "ypr": [
+                    72.931984,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    2697.3,
+                    364.14223400000003,
+                    6740.47
+                  ],
+                    "ypr": [
+                    72.833027,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    2696.7,
+                    364.14223400000003,
+                    6740.29
+                  ],
+                    "ypr": [
+                    72.833027,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    2696.87,
+                    364.14223400000003,
+                    6739.77
+                  ],
+                    "ypr": [
+                    72.833027,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    2697.46,
+                    364.14223400000003,
+                    6739.95
+                  ],
+                    "ypr": [
+                    72.833027,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    2706.84,
+                    364.10539900000003,
+                    6764.11
+                  ],
+                    "ypr": [
+                    -13.429503999999994,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    2706.99,
+                    364.10539900000003,
+                    6763.51
+                  ],
+                    "ypr": [
+                    -13.429503999999994,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    2707.52,
+                    364.10539900000003,
+                    6763.63
+                  ],
+                    "ypr": [
+                    -13.429503999999994,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    2707.37,
+                    364.10539900000003,
+                    6764.24
+                  ],
+                    "ypr": [
+                    -13.429503999999994,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    2714.61,
+                    364.575034,
+                    6765.88
+                  ],
+                    "ypr": [
+                    160.326752,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    2714.4,
+                    364.575034,
+                    6766.46
+                  ],
+                    "ypr": [
+                    160.326752,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    2713.89,
+                    364.575034,
+                    6766.28
+                  ],
+                    "ypr": [
+                    160.326752,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    2714.1,
+                    364.575034,
+                    6765.69
+                  ],
+                    "ypr": [
+                    160.326752,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    3300.42,
+                    320.20961700000004,
+                    15133.35
+                  ],
+                    "ypr": [
+                    -1.9599230000000034,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    3300.45,
+                    320.20961700000004,
+                    15132.73
+                  ],
+                    "ypr": [
+                    -1.9599230000000034,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    3300.99,
+                    320.20961700000004,
+                    15132.75
+                  ],
+                    "ypr": [
+                    -1.9599230000000034,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    3300.97,
+                    320.20961700000004,
+                    15133.37
+                  ],
+                    "ypr": [
+                    -1.9599230000000034,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4219.96,
+                    338.800559,
+                    11013.1
+                  ],
+                    "ypr": [
+                    187.167542,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4220.04,
+                    338.800559,
+                    11013.72
+                  ],
+                    "ypr": [
+                    187.167542,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4219.5,
+                    338.800559,
+                    11013.78
+                  ],
+                    "ypr": [
+                    187.167542,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4219.42,
+                    338.800559,
+                    11013.17
+                  ],
+                    "ypr": [
+                    187.167542,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4214.09,
+                    338.79521900000003,
+                    11009.68
+                  ],
+                    "ypr": [
+                    167.939293,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4213.96,
+                    338.79521900000003,
+                    11010.29
+                  ],
+                    "ypr": [
+                    167.939293,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4213.43,
+                    338.79521900000003,
+                    11010.18
+                  ],
+                    "ypr": [
+                    167.939293,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4213.56,
+                    338.79521900000003,
+                    11009.57
+                  ],
+                    "ypr": [
+                    167.939293,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4205.12,
+                    338.81511600000005,
+                    11064.43
+                  ],
+                    "ypr": [
+                    9.128860000000003,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4205.02,
+                    338.81511600000005,
+                    11063.81
+                  ],
+                    "ypr": [
+                    9.128860000000003,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4205.55,
+                    338.81511600000005,
+                    11063.73
+                  ],
+                    "ypr": [
+                    9.128860000000003,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4205.65,
+                    338.81511600000005,
+                    11064.34
+                  ],
+                    "ypr": [
+                    9.128860000000003,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4549.42,
+                    7.964047,
+                    2517.01
+                  ],
+                    "ypr": [
+                    -47.518204,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4549.87,
+                    7.964047,
+                    2516.59
+                  ],
+                    "ypr": [
+                    -47.518204,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4550.24,
+                    7.964047,
+                    2517
+                  ],
+                    "ypr": [
+                    -47.518204,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4549.78,
+                    7.964047,
+                    2517.41
+                  ],
+                    "ypr": [
+                    -47.518204,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4572.18,
+                    10.451407,
+                    2596
+                  ],
+                    "ypr": [
+                    -19.053696000000002,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4572.39,
+                    10.451407,
+                    2595.42
+                  ],
+                    "ypr": [
+                    -19.053696000000002,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4572.9,
+                    10.451407,
+                    2595.6
+                  ],
+                    "ypr": [
+                    -19.053696000000002,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4572.7,
+                    10.451407,
+                    2596.18
+                  ],
+                    "ypr": [
+                    -19.053696000000002,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4607.34,
+                    319.791038,
+                    8210.05
+                  ],
+                    "ypr": [
+                    79.214275,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4606.73,
+                    319.791038,
+                    8209.94
+                  ],
+                    "ypr": [
+                    79.214275,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4606.84,
+                    319.791038,
+                    8209.4
+                  ],
+                    "ypr": [
+                    79.214275,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4607.44,
+                    319.791038,
+                    8209.52
+                  ],
+                    "ypr": [
+                    79.214275,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4831.97,
+                    8.988416999999998,
+                    2445.69
+                  ],
+                    "ypr": [
+                    254.289337,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4832.57,
+                    8.988416999999998,
+                    2445.86
+                  ],
+                    "ypr": [
+                    254.289337,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4832.42,
+                    8.988416999999998,
+                    2446.38
+                  ],
+                    "ypr": [
+                    254.289337,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4831.83,
+                    8.988416999999998,
+                    2446.21
+                  ],
+                    "ypr": [
+                    254.289337,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4855.72,
+                    10.245106,
+                    2593.3
+                  ],
+                    "ypr": [
+                    157.17379,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4855.48,
+                    10.245106,
+                    2593.87
+                  ],
+                    "ypr": [
+                    157.17379,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4854.98,
+                    10.245106,
+                    2593.66
+                  ],
+                    "ypr": [
+                    157.17379,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4855.22,
+                    10.245106,
+                    2593.09
+                  ],
+                    "ypr": [
+                    157.17379,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4899.18,
+                    9.885105,
+                    2485.31
+                  ],
+                    "ypr": [
+                    119.968771,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4898.64,
+                    9.885105,
+                    2485.62
+                  ],
+                    "ypr": [
+                    119.968771,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4898.37,
+                    9.885105,
+                    2485.15
+                  ],
+                    "ypr": [
+                    119.968771,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4898.9,
+                    9.885105,
+                    2484.84
+                  ],
+                    "ypr": [
+                    119.968771,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4901.87,
+                    9.905106,
+                    2615.25
+                  ],
+                    "ypr": [
+                    134.278389,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4901.43,
+                    9.905106,
+                    2615.69
+                  ],
+                    "ypr": [
+                    134.278389,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4901.05,
+                    9.905106,
+                    2615.3
+                  ],
+                    "ypr": [
+                    134.278389,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4901.49,
+                    9.905106,
+                    2614.86
+                  ],
+                    "ypr": [
+                    134.278389,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5002.82,
+                    10.927114999999999,
+                    2550.45
+                  ],
+                    "ypr": [
+                    253.335312,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5003.42,
+                    10.927114999999999,
+                    2550.63
+                  ],
+                    "ypr": [
+                    253.335312,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5003.26,
+                    10.927114999999999,
+                    2551.15
+                  ],
+                    "ypr": [
+                    253.335312,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5002.67,
+                    10.927114999999999,
+                    2550.97
+                  ],
+                    "ypr": [
+                    253.335312,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5089.05,
+                    9.75155,
+                    2274.79
+                  ],
+                    "ypr": [
+                    257.486374,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5089.66,
+                    9.75155,
+                    2274.93
+                  ],
+                    "ypr": [
+                    257.486374,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5089.54,
+                    9.75155,
+                    2275.46
+                  ],
+                    "ypr": [
+                    257.486374,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5088.94,
+                    9.75155,
+                    2275.32
+                  ],
+                    "ypr": [
+                    257.486374,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5077.04,
+                    9.745116,
+                    2289.59
+                  ],
+                    "ypr": [
+                    226.917099,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5077.49,
+                    9.745116,
+                    2290.02
+                  ],
+                    "ypr": [
+                    226.917099,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5077.12,
+                    9.745116,
+                    2290.42
+                  ],
+                    "ypr": [
+                    226.917099,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5076.67,
+                    9.745116,
+                    2289.99
+                  ],
+                    "ypr": [
+                    226.917099,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5093.57,
+                    9.745116,
+                    2302.32
+                  ],
+                    "ypr": [
+                    0,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5093.57,
+                    9.745116,
+                    2301.7
+                  ],
+                    "ypr": [
+                    0,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5094.11,
+                    9.745116,
+                    2301.7
+                  ],
+                    "ypr": [
+                    0,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5094.11,
+                    9.745116,
+                    2302.32
+                  ],
+                    "ypr": [
+                    0,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5265.83,
+                    9.20815,
+                    2224.13
+                  ],
+                    "ypr": [
+                    -46.409546000000006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5266.28,
+                    9.20815,
+                    2223.7
+                  ],
+                    "ypr": [
+                    -46.409546000000006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5266.65,
+                    9.20815,
+                    2224.09
+                  ],
+                    "ypr": [
+                    -46.409546000000006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5266.2,
+                    9.20815,
+                    2224.52
+                  ],
+                    "ypr": [
+                    -46.409546000000006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5365.33,
+                    333.164146,
+                    9894.9
+                  ],
+                    "ypr": [
+                    -88.31968699999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5365.95,
+                    333.164146,
+                    9894.89
+                  ],
+                    "ypr": [
+                    -88.31968699999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5365.96,
+                    333.164146,
+                    9895.43
+                  ],
+                    "ypr": [
+                    -88.31968699999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5365.34,
+                    333.164146,
+                    9895.45
+                  ],
+                    "ypr": [
+                    -88.31968699999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5390.69,
+                    333.18215100000003,
+                    9922.91
+                  ],
+                    "ypr": [
+                    267.116455,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5391.3,
+                    333.18215100000003,
+                    9922.94
+                  ],
+                    "ypr": [
+                    267.116455,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5391.28,
+                    333.18215100000003,
+                    9923.49
+                  ],
+                    "ypr": [
+                    267.116455,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5390.66,
+                    333.18215100000003,
+                    9923.46
+                  ],
+                    "ypr": [
+                    267.116455,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5379.98,
+                    333.18178500000005,
+                    9920.32
+                  ],
+                    "ypr": [
+                    -0.4163819999999987,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5379.99,
+                    333.18178500000005,
+                    9919.7
+                  ],
+                    "ypr": [
+                    -0.4163819999999987,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5380.53,
+                    333.18178500000005,
+                    9919.71
+                  ],
+                    "ypr": [
+                    -0.4163819999999987,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5380.53,
+                    333.18178500000005,
+                    9920.33
+                  ],
+                    "ypr": [
+                    -0.4163819999999987,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5365.88,
+                    333.17647500000004,
+                    9904.52
+                  ],
+                    "ypr": [
+                    -88.31968699999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5366.5,
+                    333.17647500000004,
+                    9904.51
+                  ],
+                    "ypr": [
+                    -88.31968699999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5366.52,
+                    333.17647500000004,
+                    9905.05
+                  ],
+                    "ypr": [
+                    -88.31968699999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5365.9,
+                    333.17647500000004,
+                    9905.07
+                  ],
+                    "ypr": [
+                    -88.31968699999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5366.01,
+                    333.17122600000005,
+                    9900.8
+                  ],
+                    "ypr": [
+                    94.586733,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5365.39,
+                    333.17122600000005,
+                    9900.85
+                  ],
+                    "ypr": [
+                    94.586733,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5365.35,
+                    333.17122600000005,
+                    9900.31
+                  ],
+                    "ypr": [
+                    94.586733,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5365.97,
+                    333.17122600000005,
+                    9900.26
+                  ],
+                    "ypr": [
+                    94.586733,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5364.92,
+                    333.172813,
+                    9900.91
+                  ],
+                    "ypr": [
+                    92.398273,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5364.3,
+                    333.172813,
+                    9900.93
+                  ],
+                    "ypr": [
+                    92.398273,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5364.28,
+                    333.172813,
+                    9900.39
+                  ],
+                    "ypr": [
+                    92.398273,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5364.9,
+                    333.172813,
+                    9900.36
+                  ],
+                    "ypr": [
+                    92.398273,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5379.97,
+                    333.18328,
+                    9921.43
+                  ],
+                    "ypr": [
+                    -0.4163819999999987,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5379.97,
+                    333.18328,
+                    9920.81
+                  ],
+                    "ypr": [
+                    -0.4163819999999987,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5380.51,
+                    333.18328,
+                    9920.82
+                  ],
+                    "ypr": [
+                    -0.4163819999999987,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5380.51,
+                    333.18328,
+                    9921.44
+                  ],
+                    "ypr": [
+                    -0.4163819999999987,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5373.02,
+                    319.125083,
+                    10005.6
+                  ],
+                    "ypr": [
+                    0,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5373.02,
+                    319.125083,
+                    10004.98
+                  ],
+                    "ypr": [
+                    0,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5373.56,
+                    319.125083,
+                    10004.98
+                  ],
+                    "ypr": [
+                    0,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5373.56,
+                    319.125083,
+                    10005.6
+                  ],
+                    "ypr": [
+                    0,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5778.62,
+                    94.27690000000001,
+                    3088.45
+                  ],
+                    "ypr": [
+                    17.576240999999996,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5778.43,
+                    94.27690000000001,
+                    3087.86
+                  ],
+                    "ypr": [
+                    17.576240999999996,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5778.95,
+                    94.27690000000001,
+                    3087.7
+                  ],
+                    "ypr": [
+                    17.576240999999996,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5779.14,
+                    94.27690000000001,
+                    3088.29
+                  ],
+                    "ypr": [
+                    17.576240999999996,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5803.21,
+                    94.36292900000001,
+                    3093.8
+                  ],
+                    "ypr": [
+                    -28.11535599999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5803.5,
+                    94.36292900000001,
+                    3093.25
+                  ],
+                    "ypr": [
+                    -28.11535599999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5803.98,
+                    94.36292900000001,
+                    3093.51
+                  ],
+                    "ypr": [
+                    -28.11535599999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5803.69,
+                    94.36292900000001,
+                    3094.05
+                  ],
+                    "ypr": [
+                    -28.11535599999999,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5797.6,
+                    94.155128,
+                    3068.91
+                  ],
+                    "ypr": [
+                    139.643955,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5797.19,
+                    94.155128,
+                    3069.38
+                  ],
+                    "ypr": [
+                    139.643955,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5796.78,
+                    94.155128,
+                    3069.03
+                  ],
+                    "ypr": [
+                    139.643955,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5797.18,
+                    94.155128,
+                    3068.55
+                  ],
+                    "ypr": [
+                    139.643955,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    6193.78,
+                    40.742022999999996,
+                    3546.79
+                  ],
+                    "ypr": [
+                    -19.494834999999995,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    6193.99,
+                    40.742022999999996,
+                    3546.2
+                  ],
+                    "ypr": [
+                    -19.494834999999995,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    6194.5,
+                    40.742022999999996,
+                    3546.38
+                  ],
+                    "ypr": [
+                    -19.494834999999995,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    6194.3,
+                    40.742022999999996,
+                    3546.97
+                  ],
+                    "ypr": [
+                    -19.494834999999995,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    6203.7,
+                    40.92369,
+                    3552.33
+                  ],
+                    "ypr": [
+                    63.868673,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    6203.14,
+                    40.92369,
+                    3552.05
+                  ],
+                    "ypr": [
+                    63.868673,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    6203.38,
+                    40.92369,
+                    3551.56
+                  ],
+                    "ypr": [
+                    63.868673,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    6203.94,
+                    40.92369,
+                    3551.84
+                  ],
+                    "ypr": [
+                    63.868673,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    6270.16,
+                    305.25286,
+                    7816.73
+                  ],
+                    "ypr": [
+                    52.43454,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    6269.67,
+                    305.25286,
+                    7816.35
+                  ],
+                    "ypr": [
+                    52.43454,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    6270,
+                    305.25286,
+                    7815.92
+                  ],
+                    "ypr": [
+                    52.43454,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    6270.49,
+                    305.25286,
+                    7816.29
+                  ],
+                    "ypr": [
+                    52.43454,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    6388.2,
+                    305.40511200000003,
+                    7779.56
+                  ],
+                    "ypr": [
+                    70.353642,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    6387.62,
+                    305.40511200000003,
+                    7779.35
+                  ],
+                    "ypr": [
+                    70.353642,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    6387.8,
+                    305.40511200000003,
+                    7778.84
+                  ],
+                    "ypr": [
+                    70.353642,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    6388.39,
+                    305.40511200000003,
+                    7779.05
+                  ],
+                    "ypr": [
+                    70.353642,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    7114.9,
+                    130.867728,
+                    12714.16
+                  ],
+                    "ypr": [
+                    129.52116,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    7114.43,
+                    130.867728,
+                    12714.56
+                  ],
+                    "ypr": [
+                    129.52116,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    7114.08,
+                    130.867728,
+                    12714.14
+                  ],
+                    "ypr": [
+                    129.52116,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    7114.56,
+                    130.867728,
+                    12713.74
+                  ],
+                    "ypr": [
+                    129.52116,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    7751.6,
+                    360.845115,
+                    14849.86
+                  ],
+                    "ypr": [
+                    93.307419,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    7750.98,
+                    360.845115,
+                    14849.9
+                  ],
+                    "ypr": [
+                    93.307419,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    7750.95,
+                    360.845115,
+                    14849.35
+                  ],
+                    "ypr": [
+                    93.307419,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    7751.57,
+                    360.845115,
+                    14849.32
+                  ],
+                    "ypr": [
+                    93.307419,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    7819.33,
+                    356.41506100000004,
+                    14784.89
+                  ],
+                    "ypr": [
+                    195.491417,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    7819.49,
+                    356.41506100000004,
+                    14785.49
+                  ],
+                    "ypr": [
+                    195.491417,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    7818.97,
+                    356.41506100000004,
+                    14785.64
+                  ],
+                    "ypr": [
+                    195.491417,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    7818.8,
+                    356.41506100000004,
+                    14785.04
+                  ],
+                    "ypr": [
+                    195.491417,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    7880.28,
+                    343.966208,
+                    14719.06
+                  ],
+                    "ypr": [
+                    144.690617,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    7879.92,
+                    343.966208,
+                    14719.57
+                  ],
+                    "ypr": [
+                    144.690617,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    7879.48,
+                    343.966208,
+                    14719.26
+                  ],
+                    "ypr": [
+                    144.690617,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    7879.84,
+                    343.966208,
+                    14718.75
+                  ],
+                    "ypr": [
+                    144.690617,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    7954.43,
+                    338.910636,
+                    14626.18
+                  ],
+                    "ypr": [
+                    180.205574,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    7954.44,
+                    338.910636,
+                    14626.8
+                  ],
+                    "ypr": [
+                    180.205574,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    7953.89,
+                    338.910636,
+                    14626.8
+                  ],
+                    "ypr": [
+                    180.205574,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    7953.89,
+                    338.910636,
+                    14626.18
+                  ],
+                    "ypr": [
+                    180.205574,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    7965.31,
+                    339.233329,
+                    14635.12
+                  ],
+                    "ypr": [
+                    81.652774,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    7964.7,
+                    339.233329,
+                    14635.03
+                  ],
+                    "ypr": [
+                    81.652774,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    7964.78,
+                    339.233329,
+                    14634.49
+                  ],
+                    "ypr": [
+                    81.652774,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    7965.39,
+                    339.233329,
+                    14634.58
+                  ],
+                    "ypr": [
+                    81.652774,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    7970.62,
+                    339.415122,
+                    14653.19
+                  ],
+                    "ypr": [
+                    1.7169190000000043,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    7970.6,
+                    339.415122,
+                    14652.57
+                  ],
+                    "ypr": [
+                    1.7169190000000043,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    7971.14,
+                    339.415122,
+                    14652.56
+                  ],
+                    "ypr": [
+                    1.7169190000000043,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    7971.16,
+                    339.415122,
+                    14653.18
+                  ],
+                    "ypr": [
+                    1.7169190000000043,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    8042.52,
+                    340.21511000000004,
+                    14628.55
+                  ],
+                    "ypr": [
+                    103.407377,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    8041.91,
+                    340.21511000000004,
+                    14628.7
+                  ],
+                    "ypr": [
+                    103.407377,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    8041.79,
+                    340.21511000000004,
+                    14628.17
+                  ],
+                    "ypr": [
+                    103.407377,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    8042.39,
+                    340.21511000000004,
+                    14628.02
+                  ],
+                    "ypr": [
+                    103.407377,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    8047.38,
+                    340.21511000000004,
+                    14640.91
+                  ],
+                    "ypr": [
+                    -2.8906860000000023,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    8047.41,
+                    340.21511000000004,
+                    14640.29
+                  ],
+                    "ypr": [
+                    -2.8906860000000023,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    8047.95,
+                    340.21511000000004,
+                    14640.31
+                  ],
+                    "ypr": [
+                    -2.8906860000000023,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    8047.92,
+                    340.21511000000004,
+                    14640.93
+                  ],
+                    "ypr": [
+                    -2.8906860000000023,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    8235.94,
+                    6.781777,
+                    3099.92
+                  ],
+                    "ypr": [
+                    219.172729,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    8236.33,
+                    6.781777,
+                    3100.4
+                  ],
+                    "ypr": [
+                    219.172729,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    8235.91,
+                    6.781777,
+                    3100.74
+                  ],
+                    "ypr": [
+                    219.172729,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    8235.52,
+                    6.781777,
+                    3100.26
+                  ],
+                    "ypr": [
+                    219.172729,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    9576.01,
+                    243.081122,
+                    11810.42
+                  ],
+                    "ypr": [
+                    79.153137,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    9575.4,
+                    243.081122,
+                    11810.3
+                  ],
+                    "ypr": [
+                    79.153137,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    9575.5,
+                    243.081122,
+                    11809.76
+                  ],
+                    "ypr": [
+                    79.153137,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    9576.11,
+                    243.081122,
+                    11809.88
+                  ],
+                    "ypr": [
+                    79.153137,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    9560.77,
+                    243.160621,
+                    11818.36
+                  ],
+                    "ypr": [
+                    214.397385,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    9561.12,
+                    243.160621,
+                    11818.87
+                  ],
+                    "ypr": [
+                    214.397385,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    9560.67,
+                    243.160621,
+                    11819.18
+                  ],
+                    "ypr": [
+                    214.397385,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    9560.32,
+                    243.160621,
+                    11818.67
+                  ],
+                    "ypr": [
+                    214.397385,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    9541.88,
+                    243.175132,
+                    11824.92
+                  ],
+                    "ypr": [
+                    174.63163,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    9541.82,
+                    243.175132,
+                    11825.54
+                  ],
+                    "ypr": [
+                    174.63163,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    9541.28,
+                    243.175132,
+                    11825.49
+                  ],
+                    "ypr": [
+                    174.63163,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    9541.34,
+                    243.175132,
+                    11824.87
+                  ],
+                    "ypr": [
+                    174.63163,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    10162.97,
+                    63.471961,
+                    4077.16
+                  ],
+                    "ypr": [
+                    62.432888,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    10162.42,
+                    63.471961,
+                    4076.87
+                  ],
+                    "ypr": [
+                    62.432888,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    10162.67,
+                    63.471961,
+                    4076.39
+                  ],
+                    "ypr": [
+                    62.432888,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    10163.22,
+                    63.471961,
+                    4076.68
+                  ],
+                    "ypr": [
+                    62.432888,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    10431.34,
+                    278.073661,
+                    5853.25
+                  ],
+                    "ypr": [
+                    206.385147,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    10431.62,
+                    278.073661,
+                    5853.81
+                  ],
+                    "ypr": [
+                    206.385147,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    10431.13,
+                    278.073661,
+                    5854.05
+                  ],
+                    "ypr": [
+                    206.385147,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    10430.85,
+                    278.073661,
+                    5853.5
+                  ],
+                    "ypr": [
+                    206.385147,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    10428.42,
+                    178.984305,
+                    9146.22
+                  ],
+                    "ypr": [
+                    -21.897354000000007,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    10428.65,
+                    178.984305,
+                    9145.64
+                  ],
+                    "ypr": [
+                    -21.897354000000007,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    10429.16,
+                    178.984305,
+                    9145.85
+                  ],
+                    "ypr": [
+                    -21.897354000000007,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    10428.93,
+                    178.984305,
+                    9146.42
+                  ],
+                    "ypr": [
+                    -21.897354000000007,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    10444.69,
+                    278.389091,
+                    5852.84
+                  ],
+                    "ypr": [
+                    90.507315,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    10444.07,
+                    278.389091,
+                    5852.85
+                  ],
+                    "ypr": [
+                    90.507315,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    10444.06,
+                    278.389091,
+                    5852.3
+                  ],
+                    "ypr": [
+                    90.507315,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    10444.68,
+                    278.389091,
+                    5852.3
+                  ],
+                    "ypr": [
+                    90.507315,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    10473.73,
+                    179.133262,
+                    9143.88
+                  ],
+                    "ypr": [
+                    174.304466,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    10473.67,
+                    179.133262,
+                    9144.49
+                  ],
+                    "ypr": [
+                    174.304466,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    10473.12,
+                    179.133262,
+                    9144.44
+                  ],
+                    "ypr": [
+                    174.304466,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    10473.19,
+                    179.133262,
+                    9143.82
+                  ],
+                    "ypr": [
+                    174.304466,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    10455.29,
+                    178.895835,
+                    9157.39
+                  ],
+                    "ypr": [
+                    267.161133,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    10455.91,
+                    178.895835,
+                    9157.42
+                  ],
+                    "ypr": [
+                    267.161133,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    10455.89,
+                    178.895835,
+                    9157.96
+                  ],
+                    "ypr": [
+                    267.161133,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    10455.27,
+                    178.895835,
+                    9157.93
+                  ],
+                    "ypr": [
+                    267.161133,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    10457.33,
+                    179.01511299999999,
+                    9145.82
+                  ],
+                    "ypr": [
+                    178.78936,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    10457.31,
+                    179.01511299999999,
+                    9146.44
+                  ],
+                    "ypr": [
+                    178.78936,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    10456.77,
+                    179.01511299999999,
+                    9146.43
+                  ],
+                    "ypr": [
+                    178.78936,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    10456.78,
+                    179.01511299999999,
+                    9145.81
+                  ],
+                    "ypr": [
+                    178.78936,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    13610.46,
+                    6.130418,
+                    13768.31
+                  ],
+                    "ypr": [
+                    -72.776367,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    13611.05,
+                    6.130418,
+                    13768.13
+                  ],
+                    "ypr": [
+                    -72.776367,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    13611.21,
+                    6.130418,
+                    13768.65
+                  ],
+                    "ypr": [
+                    -72.776367,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    13610.62,
+                    6.130418,
+                    13768.83
+                  ],
+                    "ypr": [
+                    -72.776367,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    13590.4,
+                    6.244668,
+                    13759.95
+                  ],
+                    "ypr": [
+                    176.437424,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    13590.37,
+                    6.244668,
+                    13760.57
+                  ],
+                    "ypr": [
+                    176.437424,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    13589.82,
+                    6.244668,
+                    13760.54
+                  ],
+                    "ypr": [
+                    176.437424,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    13589.86,
+                    6.244668,
+                    13759.92
+                  ],
+                    "ypr": [
+                    176.437424,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    13651.79,
+                    6.07478,
+                    13770.44
+                  ],
+                    "ypr": [
+                    -67.021301,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    13652.36,
+                    6.07478,
+                    13770.2
+                  ],
+                    "ypr": [
+                    -67.021301,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    13652.58,
+                    6.07478,
+                    13770.7
+                  ],
+                    "ypr": [
+                    -67.021301,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    13652.01,
+                    6.07478,
+                    13770.94
+                  ],
+                    "ypr": [
+                    -67.021301,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    13634.91,
+                    6.154971,
+                    13752.84
+                  ],
+                    "ypr": [
+                    -79.72676100000001,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    13635.52,
+                    6.154971,
+                    13752.73
+                  ],
+                    "ypr": [
+                    -79.72676100000001,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    13635.62,
+                    6.154971,
+                    13753.26
+                  ],
+                    "ypr": [
+                    -79.72676100000001,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    13635.01,
+                    6.154971,
+                    13753.37
+                  ],
+                    "ypr": [
+                    -79.72676100000001,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1173.66,
+                    185.785,
+                    7214.8
+                  ],
+                    "ypr": [
+                    358.504,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1173.67,
+                    185.785,
+                    7214.18
+                  ],
+                    "ypr": [
+                    358.504,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1174.22,
+                    185.785,
+                    7214.19
+                  ],
+                    "ypr": [
+                    358.504,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1174.2,
+                    185.785,
+                    7214.81
+                  ],
+                    "ypr": [
+                    358.504,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1518.32,
+                    439.355,
+                    13561.62
+                  ],
+                    "ypr": [
+                    342.614,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1518.51,
+                    439.355,
+                    13561.03
+                  ],
+                    "ypr": [
+                    342.614,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1519.03,
+                    439.355,
+                    13561.19
+                  ],
+                    "ypr": [
+                    342.614,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1518.84,
+                    439.355,
+                    13561.78
+                  ],
+                    "ypr": [
+                    342.614,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1524.59,
+                    440.829,
+                    13635.56
+                  ],
+                    "ypr": [
+                    266.221,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1525.21,
+                    440.829,
+                    13635.6
+                  ],
+                    "ypr": [
+                    266.221,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1525.17,
+                    440.829,
+                    13636.14
+                  ],
+                    "ypr": [
+                    266.221,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1524.55,
+                    440.829,
+                    13636.1
+                  ],
+                    "ypr": [
+                    266.221,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    2696.01,
+                    364.13500000000005,
+                    6763.01
+                  ],
+                    "ypr": [
+                    261.167,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    2696.62,
+                    364.13500000000005,
+                    6763.1
+                  ],
+                    "ypr": [
+                    261.167,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    2696.54,
+                    364.13500000000005,
+                    6763.64
+                  ],
+                    "ypr": [
+                    261.167,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    2695.92,
+                    364.13500000000005,
+                    6763.55
+                  ],
+                    "ypr": [
+                    261.167,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4199.53,
+                    338.855,
+                    11078.19
+                  ],
+                    "ypr": [
+                    255.288,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4200.13,
+                    338.855,
+                    11078.35
+                  ],
+                    "ypr": [
+                    255.288,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4199.99,
+                    338.855,
+                    11078.87
+                  ],
+                    "ypr": [
+                    255.288,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4199.39,
+                    338.855,
+                    11078.72
+                  ],
+                    "ypr": [
+                    255.288,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5806.38,
+                    94.17200000000001,
+                    3075.69
+                  ],
+                    "ypr": [
+                    49.114,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5805.92,
+                    94.17200000000001,
+                    3075.28
+                  ],
+                    "ypr": [
+                    49.114,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5806.27,
+                    94.17200000000001,
+                    3074.87
+                  ],
+                    "ypr": [
+                    49.114,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5806.74,
+                    94.17200000000001,
+                    3075.28
+                  ],
+                    "ypr": [
+                    49.114,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    6317.41,
+                    305.458,
+                    7804.01
+                  ],
+                    "ypr": [
+                    304.845,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    6317.92,
+                    305.458,
+                    7803.66
+                  ],
+                    "ypr": [
+                    304.845,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    6318.23,
+                    305.458,
+                    7804.1
+                  ],
+                    "ypr": [
+                    304.845,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    6317.73,
+                    305.458,
+                    7804.46
+                  ],
+                    "ypr": [
+                    304.845,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    7256.31,
+                    27.168,
+                    3020.11
+                  ],
+                    "ypr": [
+                    73.68,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    7255.71,
+                    27.168,
+                    3019.93
+                  ],
+                    "ypr": [
+                    73.68,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    7255.87,
+                    27.168,
+                    3019.41
+                  ],
+                    "ypr": [
+                    73.68,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    7256.46,
+                    27.168,
+                    3019.58
+                  ],
+                    "ypr": [
+                    73.68,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    9567.22,
+                    242.886,
+                    11792.38
+                  ],
+                    "ypr": [
+                    124.847,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    9566.71,
+                    242.886,
+                    11792.73
+                  ],
+                    "ypr": [
+                    124.847,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    9566.4,
+                    242.886,
+                    11792.29
+                  ],
+                    "ypr": [
+                    124.847,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    9566.9,
+                    242.886,
+                    11791.93
+                  ],
+                    "ypr": [
+                    124.847,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    10468.43,
+                    179.064,
+                    9142.98
+                  ],
+                    "ypr": [
+                    88.795,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    10467.81,
+                    179.064,
+                    9142.96
+                  ],
+                    "ypr": [
+                    88.795,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    10467.82,
+                    179.064,
+                    9142.42
+                  ],
+                    "ypr": [
+                    88.795,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    10468.44,
+                    179.064,
+                    9142.43
+                  ],
+                    "ypr": [
+                    88.795,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    331.44,
+                    295.49600000000004,
+                    9340.55
+                  ],
+                    "ypr": [
+                    211.005,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    331.76,
+                    295.49600000000004,
+                    9341.08
+                  ],
+                    "ypr": [
+                    211.005,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    331.3,
+                    295.49600000000004,
+                    9341.36
+                  ],
+                    "ypr": [
+                    211.005,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    330.98,
+                    295.49600000000004,
+                    9340.83
+                  ],
+                    "ypr": [
+                    211.005,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    760.64,
+                    6.548,
+                    1861.52
+                  ],
+                    "ypr": [
+                    52.092,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    760.15,
+                    6.548,
+                    1861.14
+                  ],
+                    "ypr": [
+                    52.092,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    760.49,
+                    6.548,
+                    1860.71
+                  ],
+                    "ypr": [
+                    52.092,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    760.97,
+                    6.548,
+                    1861.09
+                  ],
+                    "ypr": [
+                    52.092,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1150.84,
+                    185.785,
+                    7239.07
+                  ],
+                    "ypr": [
+                    178.096,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1150.82,
+                    185.785,
+                    7239.69
+                  ],
+                    "ypr": [
+                    178.096,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1150.27,
+                    185.785,
+                    7239.67
+                  ],
+                    "ypr": [
+                    178.096,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1150.29,
+                    185.785,
+                    7239.05
+                  ],
+                    "ypr": [
+                    178.096,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1512.27,
+                    440.851,
+                    13636.66
+                  ],
+                    "ypr": [
+                    266.22,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1512.89,
+                    440.851,
+                    13636.7
+                  ],
+                    "ypr": [
+                    266.22,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1512.85,
+                    440.851,
+                    13637.25
+                  ],
+                    "ypr": [
+                    266.22,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1512.23,
+                    440.851,
+                    13637.21
+                  ],
+                    "ypr": [
+                    266.22,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4211.63,
+                    338.855,
+                    11083.72
+                  ],
+                    "ypr": [
+                    255.288,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4212.23,
+                    338.855,
+                    11083.88
+                  ],
+                    "ypr": [
+                    255.288,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4212.09,
+                    338.855,
+                    11084.41
+                  ],
+                    "ypr": [
+                    255.288,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4211.49,
+                    338.855,
+                    11084.25
+                  ],
+                    "ypr": [
+                    255.288,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    6309.26,
+                    305.446,
+                    7811.73
+                  ],
+                    "ypr": [
+                    304.171,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    6309.77,
+                    305.446,
+                    7811.38
+                  ],
+                    "ypr": [
+                    304.171,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    6310.07,
+                    305.446,
+                    7811.83
+                  ],
+                    "ypr": [
+                    304.171,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    6309.56,
+                    305.446,
+                    7812.18
+                  ],
+                    "ypr": [
+                    304.171,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    7932.94,
+                    338.944,
+                    14628.82
+                  ],
+                    "ypr": [
+                    91.277,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    7932.32,
+                    338.944,
+                    14628.84
+                  ],
+                    "ypr": [
+                    91.277,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    7932.31,
+                    338.944,
+                    14628.29
+                  ],
+                    "ypr": [
+                    91.277,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    7932.93,
+                    338.944,
+                    14628.28
+                  ],
+                    "ypr": [
+                    91.277,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    10423.09,
+                    283.596,
+                    5950.23
+                  ],
+                    "ypr": [
+                    131.952,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    10422.63,
+                    283.596,
+                    5950.65
+                  ],
+                    "ypr": [
+                    131.952,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    10422.26,
+                    283.596,
+                    5950.24
+                  ],
+                    "ypr": [
+                    131.952,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    10422.72,
+                    283.596,
+                    5949.83
+                  ],
+                    "ypr": [
+                    131.952,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1174.68,
+                    185.781,
+                    7250.18
+                  ],
+                    "ypr": [
+                    358.99,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1174.69,
+                    185.781,
+                    7249.56
+                  ],
+                    "ypr": [
+                    358.99,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1175.23,
+                    185.781,
+                    7249.57
+                  ],
+                    "ypr": [
+                    358.99,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1175.22,
+                    185.781,
+                    7250.19
+                  ],
+                    "ypr": [
+                    358.99,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1159.42,
+                    185.781,
+                    7214.48
+                  ],
+                    "ypr": [
+                    88.018,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1158.8,
+                    185.781,
+                    7214.45
+                  ],
+                    "ypr": [
+                    88.018,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1158.82,
+                    185.781,
+                    7213.91
+                  ],
+                    "ypr": [
+                    88.018,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1159.44,
+                    185.781,
+                    7213.93
+                  ],
+                    "ypr": [
+                    88.018,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1491.82,
+                    440.886,
+                    13631.42
+                  ],
+                    "ypr": [
+                    253.152,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1492.42,
+                    440.886,
+                    13631.6
+                  ],
+                    "ypr": [
+                    253.152,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1492.26,
+                    440.886,
+                    13632.12
+                  ],
+                    "ypr": [
+                    253.152,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1491.67,
+                    440.886,
+                    13631.94
+                  ],
+                    "ypr": [
+                    253.152,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4219.39,
+                    338.85200000000003,
+                    11045.77
+                  ],
+                    "ypr": [
+                    75.033,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4218.79,
+                    338.85200000000003,
+                    11045.61
+                  ],
+                    "ypr": [
+                    75.033,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4218.93,
+                    338.85200000000003,
+                    11045.08
+                  ],
+                    "ypr": [
+                    75.033,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4219.53,
+                    338.85200000000003,
+                    11045.24
+                  ],
+                    "ypr": [
+                    75.033,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5097.59,
+                    9.776,
+                    2282.22
+                  ],
+                    "ypr": [
+                    53.177,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5097.09,
+                    9.776,
+                    2281.85
+                  ],
+                    "ypr": [
+                    53.177,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5097.42,
+                    9.776,
+                    2281.41
+                  ],
+                    "ypr": [
+                    53.177,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5097.92,
+                    9.776,
+                    2281.79
+                  ],
+                    "ypr": [
+                    53.177,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5798.05,
+                    94.179,
+                    3065.45
+                  ],
+                    "ypr": [
+                    50.676,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5797.57,
+                    94.179,
+                    3065.06
+                  ],
+                    "ypr": [
+                    50.676,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5797.91,
+                    94.179,
+                    3064.64
+                  ],
+                    "ypr": [
+                    50.676,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5798.39,
+                    94.179,
+                    3065.03
+                  ],
+                    "ypr": [
+                    50.676,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    6314.68,
+                    305.36100000000005,
+                    7826.41
+                  ],
+                    "ypr": [
+                    122.006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    6314.15,
+                    305.36100000000005,
+                    7826.73
+                  ],
+                    "ypr": [
+                    122.006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    6313.86,
+                    305.36100000000005,
+                    7826.27
+                  ],
+                    "ypr": [
+                    122.006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    6314.39,
+                    305.36100000000005,
+                    7825.94
+                  ],
+                    "ypr": [
+                    122.006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    7925.16,
+                    338.882,
+                    14628.85
+                  ],
+                    "ypr": [
+                    92.666,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    7924.54,
+                    338.882,
+                    14628.88
+                  ],
+                    "ypr": [
+                    92.666,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    7924.51,
+                    338.882,
+                    14628.34
+                  ],
+                    "ypr": [
+                    92.666,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    7925.13,
+                    338.882,
+                    14628.31
+                  ],
+                    "ypr": [
+                    92.666,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    10236.45,
+                    57.913,
+                    4031.94
+                  ],
+                    "ypr": [
+                    317.251,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    10236.87,
+                    57.913,
+                    4031.48
+                  ],
+                    "ypr": [
+                    317.251,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    10237.27,
+                    57.913,
+                    4031.85
+                  ],
+                    "ypr": [
+                    317.251,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    10236.85,
+                    57.913,
+                    4032.31
+                  ],
+                    "ypr": [
+                    317.251,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1145.73,
+                    185.76399999999998,
+                    7261.5
+                  ],
+                    "ypr": [
+                    182.806,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1145.76,
+                    185.76399999999998,
+                    7262.12
+                  ],
+                    "ypr": [
+                    182.806,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1145.21,
+                    185.76399999999998,
+                    7262.14
+                  ],
+                    "ypr": [
+                    182.806,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1145.18,
+                    185.76399999999998,
+                    7261.52
+                  ],
+                    "ypr": [
+                    182.806,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1520.19,
+                    440.822,
+                    13616.26
+                  ],
+                    "ypr": [
+                    346.064,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1520.34,
+                    440.822,
+                    13615.66
+                  ],
+                    "ypr": [
+                    346.064,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1520.87,
+                    440.822,
+                    13615.79
+                  ],
+                    "ypr": [
+                    346.064,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1520.72,
+                    440.822,
+                    13616.39
+                  ],
+                    "ypr": [
+                    346.064,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4181.48,
+                    338.82800000000003,
+                    11074.06
+                  ],
+                    "ypr": [
+                    58.429,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4180.95,
+                    338.82800000000003,
+                    11073.73
+                  ],
+                    "ypr": [
+                    58.429,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4181.24,
+                    338.82800000000003,
+                    11073.27
+                  ],
+                    "ypr": [
+                    58.429,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4181.76,
+                    338.82800000000003,
+                    11073.59
+                  ],
+                    "ypr": [
+                    58.429,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    6343.37,
+                    305.38800000000003,
+                    7781.93
+                  ],
+                    "ypr": [
+                    121.819,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    6342.84,
+                    305.38800000000003,
+                    7782.25
+                  ],
+                    "ypr": [
+                    121.819,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    6342.55,
+                    305.38800000000003,
+                    7781.79
+                  ],
+                    "ypr": [
+                    121.819,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    6343.08,
+                    305.38800000000003,
+                    7781.46
+                  ],
+                    "ypr": [
+                    121.819,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    7950.36,
+                    338.94800000000004,
+                    14635.3
+                  ],
+                    "ypr": [
+                    3.534000000000006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    7950.32,
+                    338.94800000000004,
+                    14634.68
+                  ],
+                    "ypr": [
+                    3.534000000000006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    7950.87,
+                    338.94800000000004,
+                    14634.65
+                  ],
+                    "ypr": [
+                    3.534000000000006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    7950.9,
+                    338.94800000000004,
+                    14635.27
+                  ],
+                    "ypr": [
+                    3.534000000000006,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    10440.65,
+                    283.475,
+                    5970.97
+                  ],
+                    "ypr": [
+                    185.046,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    10440.7,
+                    283.475,
+                    5971.59
+                  ],
+                    "ypr": [
+                    185.046,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    10440.16,
+                    283.475,
+                    5971.64
+                  ],
+                    "ypr": [
+                    185.046,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    10440.1,
+                    283.475,
+                    5971.02
+                  ],
+                    "ypr": [
+                    185.046,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    13635.14,
+                    6.168,
+                    13745.75
+                  ],
+                    "ypr": [
+                    290.208,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    13635.72,
+                    6.168,
+                    13745.53
+                  ],
+                    "ypr": [
+                    290.208,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    13635.91,
+                    6.168,
+                    13746.05
+                  ],
+                    "ypr": [
+                    290.208,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    13635.33,
+                    6.168,
+                    13746.26
+                  ],
+                    "ypr": [
+                    290.208,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1550.69,
+                    439.553,
+                    13600.97
+                  ],
+                    "ypr": [
+                    249.792,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1551.27,
+                    439.553,
+                    13601.19
+                  ],
+                    "ypr": [
+                    249.792,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1551.08,
+                    439.553,
+                    13601.7
+                  ],
+                    "ypr": [
+                    249.792,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1550.5,
+                    439.553,
+                    13601.48
+                  ],
+                    "ypr": [
+                    249.792,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4154.7,
+                    338.95300000000003,
+                    11062.88
+                  ],
+                    "ypr": [
+                    161.539,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4154.5,
+                    338.95300000000003,
+                    11063.47
+                  ],
+                    "ypr": [
+                    161.539,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4153.99,
+                    338.95300000000003,
+                    11063.3
+                  ],
+                    "ypr": [
+                    161.539,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4154.18,
+                    338.95300000000003,
+                    11062.71
+                  ],
+                    "ypr": [
+                    161.539,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4908.15,
+                    10.030999999999999,
+                    2458.19
+                  ],
+                    "ypr": [
+                    48.343,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4907.69,
+                    10.030999999999999,
+                    2457.78
+                  ],
+                    "ypr": [
+                    48.343,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4908.05,
+                    10.030999999999999,
+                    2457.37
+                  ],
+                    "ypr": [
+                    48.343,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4908.51,
+                    10.030999999999999,
+                    2457.78
+                  ],
+                    "ypr": [
+                    48.343,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    1446.29,
+                    446.92600000000004,
+                    13694.01
+                  ],
+                    "ypr": [
+                    255.546,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    1446.89,
+                    446.92600000000004,
+                    13694.16
+                  ],
+                    "ypr": [
+                    255.546,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    1446.76,
+                    446.92600000000004,
+                    13694.69
+                  ],
+                    "ypr": [
+                    255.546,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    1446.16,
+                    446.92600000000004,
+                    13694.54
+                  ],
+                    "ypr": [
+                    255.546,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4040.46,
+                    369.92900000000003,
+                    11664.94
+                  ],
+                    "ypr": [
+                    292.558,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4041.03,
+                    369.92900000000003,
+                    11664.7
+                  ],
+                    "ypr": [
+                    292.558,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4041.24,
+                    369.92900000000003,
+                    11665.2
+                  ],
+                    "ypr": [
+                    292.558,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4040.67,
+                    369.92900000000003,
+                    11665.44
+                  ],
+                    "ypr": [
+                    292.558,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4190.68,
+                    338.856,
+                    11052.59
+                  ],
+                    "ypr": [
+                    347.359,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4190.81,
+                    338.856,
+                    11051.98
+                  ],
+                    "ypr": [
+                    347.359,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4191.34,
+                    338.856,
+                    11052.1
+                  ],
+                    "ypr": [
+                    347.359,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4191.21,
+                    338.856,
+                    11052.71
+                  ],
+                    "ypr": [
+                    347.359,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4206.13,
+                    338.846,
+                    10995.9
+                  ],
+                    "ypr": [
+                    347.359,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4206.27,
+                    338.846,
+                    10995.3
+                  ],
+                    "ypr": [
+                    347.359,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4206.8,
+                    338.846,
+                    10995.42
+                  ],
+                    "ypr": [
+                    347.359,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4206.67,
+                    338.846,
+                    10996.02
+                  ],
+                    "ypr": [
+                    347.359,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    4886.31,
+                    9.915999999999999,
+                    2479.58
+                  ],
+                    "ypr": [
+                    141.958,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    4885.92,
+                    9.915999999999999,
+                    2480.07
+                  ],
+                    "ypr": [
+                    141.958,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    4885.49,
+                    9.915999999999999,
+                    2479.73
+                  ],
+                    "ypr": [
+                    141.958,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    4885.88,
+                    9.915999999999999,
+                    2479.24
+                  ],
+                    "ypr": [
+                    141.958,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Izh43Shotgun",
+                    "pos": [
+                    5072.59,
+                    9.796999999999999,
+                    2274.11
+                  ],
+                    "ypr": [
+                    144.321,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "CZ527",
+                    "pos": [
+                    5072.23,
+                    9.796999999999999,
+                    2274.61
+                  ],
+                    "ypr": [
+                    144.321,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "Winchester70",
+                    "pos": [
+                    5071.79,
+                    9.796999999999999,
+                    2274.29
+                  ],
+                    "ypr": [
+                    144.321,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                },
+{
+                    "name": "SKS",
+                    "pos": [
+                    5072.15,
+                    9.796999999999999,
+                    2273.79
+                  ],
+                    "ypr": [
+                    144.321,
+                    0,
+                    90
+                    ],
+                    "scale": 1,
+                    "enableCEPersistency": false
+                }
+			]
+	}

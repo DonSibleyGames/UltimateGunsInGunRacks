@@ -1,0 +1,8 @@
+		<group name="Static_misc_gunrack" lootmax="4">
+			<dispatch>
+				<proxy type="AK101" pos="0.310000 0.040000 0.315000" rpy="0 0 -90" />
+				<proxy type="CZ527" pos="-0.310000 0.040000 0.315000" rpy="0 0 -90" />
+				<proxy type="Winchester70" pos="-0.310000 0.040000 -0.230000" rpy="0 0 -90" />
+				<proxy type="SKS" pos="0.310000 0.040000 -0.230000" rpy="0 0 -90" />
+			</dispatch>
+		</group>

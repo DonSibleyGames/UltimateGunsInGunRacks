@@ -1,0 +1,81 @@
+<!--MapGroupProto.xml---->
+	<group name="StaticObj_Misc_Gunrack" lootmax="8">
+		<dispatch dechance="1.0" >
+			<proxy type="AK101" pos="0.310000 0.040000 0.315000" rpy="0 0 -90" dechance="0.25" />
+			<proxy type="FAL" pos="-0.310000 0.040000 0.315000" rpy="0 0 -90" dechance="0.25" />
+			<proxy type="Winchester70" pos="-0.310000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.25" />
+			<proxy type="Aug" pos="0.310000 0.040000 -0.230000" rpy="0 0 -90" dechance="0.25" />
+		</dispatch>
+	</group>
+<!--cfgEventGroups.xml---->	
+	<group name="Piano_House_Arms_Dealer">
+		<child type="StaticObj_Misc_Gunrack" deloot="0" lootmax="4" lootmin="1" x="-1.2998" z="-7.09961" y="-1.8731" a="89.9093"/>
+		<child type="StaticObj_Misc_Gunrack" deloot="0" lootmax="4" lootmin="1" x="0.799805" z="-7.09961" y="-1.8731" a="89.1899"/>
+		<child type="StaticObj_Furniture_flag_chernarus_pole" x="1.5" z="-7.89941" y="-0.176899" a="90"/>
+		<child type="StaticObj_Furniture_flag_chernarus_pole" x="-1.90039" z="-7.89941" y="-0.131496" a="90"/>
+	</group>
+<!--cfgEventSpawns.xml---->	
+	<event name="Static_Arms_Dealer">
+		<zone smin="1" smax="1" dmin="1" dmax="1" r="1" />
+		<pos x="1034.134277" z="7619.916016" a="169.220337" y="191.183502" group="Piano_House_Arms_Dealer"/>
+		<pos x="1328.010742" z="4112.714844" a="49.589424" y="143.665680" group="Piano_House_Arms_Dealer"/>
+		<pos x="2232.961426" z="11104.644531" a="317.25744599999996" y="271.418854" group="Piano_House_Arms_Dealer"/>
+		<pos x="2624.889893" z="5092.822754" a="46.15284" y="201.506317" group="Piano_House_Arms_Dealer"/>
+		<pos x="2723.949219" z="9978.619141" a="275" y="280.034393" group="Piano_House_Arms_Dealer"/>
+		<pos x="2769.679932" z="12373.781250" a="332.865608" y="223.161972" group="Piano_House_Arms_Dealer"/>
+		<pos x="3381.075439" z="12950.448242" a="328.291489" y="203.111084" group="Piano_House_Arms_Dealer"/>
+		<pos x="3601.816406" z="13087.946289" a="77.112488" y="196.147156" group="Piano_House_Arms_Dealer"/>
+		<pos x="3672.422119" z="8556.451172" a="225" y="305.329712" group="Piano_House_Arms_Dealer"/>
+		<pos x="3810.251221" z="8788.128906" a="24.284842999999995" y="316.867676" group="Piano_House_Arms_Dealer"/>
+		<pos x="3858.594238" z="8949.333984" a="206.155144" y="317.045380" group="Piano_House_Arms_Dealer"/>
+		<pos x="4446.742676" z="9616.583984" a="37.160427" y="345.036133" group="Piano_House_Arms_Dealer"/>
+		<pos x="4900.979980" z="13034.164063" a="270.026474" y="178.226669" group="Piano_House_Arms_Dealer"/>
+		<pos x="4981.116699" z="15122.051758" a="177.689697" y="480.037994" group="Piano_House_Arms_Dealer"/>
+		<pos x="5381.876953" z="8590.069336" a="118.419348" y="337.207306" group="Piano_House_Arms_Dealer"/>
+		<pos x="5720.445801" z="15177.715820" a="77.535639" y="480.221405" group="Piano_House_Arms_Dealer"/>
+		<pos x="5843.801270" z="13540.254883" a="85.140452" y="232.375656" group="Piano_House_Arms_Dealer"/>
+		<pos x="5969.834961" z="7745.464355" a="146.875042" y="310.214172" group="Piano_House_Arms_Dealer"/>
+		<pos x="6304.585449" z="2670.612793" a="40.52375" y="14.516875" group="Piano_House_Arms_Dealer"/>
+		<pos x="6532.500488" z="2800.201172" a="309.965851" y="15.164906" group="Piano_House_Arms_Dealer"/>
+		<pos x="6601.415039" z="2606.344727" a="223.210876" y="12.036098" group="Piano_House_Arms_Dealer"/>
+		<pos x="6675.802734" z="2661.442383" a="220.684296" y="12.036101" group="Piano_House_Arms_Dealer"/>
+		<pos x="6919.979004" z="7815.039063" a="331.378181" y="302.020233" group="Piano_House_Arms_Dealer"/>
+		<pos x="7596.885254" z="3133.681152" a="275.555023" y="11.702831" group="Piano_House_Arms_Dealer"/>
+		<pos x="7629.823242" z="3510.653809" a="73.333988" y="12.036098" group="Piano_House_Arms_Dealer"/>
+		<pos x="7996.605957" z="12687.006836" a="84.329402" y="120.379105" group="Piano_House_Arms_Dealer"/>
+		<pos x="9669.777344" z="8867.208008" a="27.648345999999997" y="305.006165" group="Piano_House_Arms_Dealer"/>
+		<pos x="10142.843750" z="5489.235840" a="128.64628199999999" y="250.633560" group="Piano_House_Arms_Dealer"/>
+		<pos x="10211.056641" z="2292.572510" a="16.061508000000003" y="27.141384" group="Piano_House_Arms_Dealer"/>
+		<pos x="10674.156250" z="7990.520996" a="122.818333" y="217.036850" group="Piano_House_Arms_Dealer"/>
+		<pos x="11161.444336" z="12304.970703" a="304.24098200000003" y="205.069870" group="Piano_House_Arms_Dealer"/>
+		<pos x="11583.062500" z="14521.953125" a="233.16481" y="55.413136" group="Piano_House_Arms_Dealer"/>
+		<pos x="11660.669922" z="14806.812500" a="321.16996800000004" y="68.644188" group="Piano_House_Arms_Dealer"/>
+		<pos x="12111.732422" z="13588.425781" a="14.115996999999993" y="103.940445" group="Piano_House_Arms_Dealer"/>
+		<pos x="12291.077148" z="10925.013672" a="52.098061" y="111.161369" group="Piano_House_Arms_Dealer"/>
+		<pos x="12316.465820" z="9061.422852" a="331.5439" y="40.035450" group="Piano_House_Arms_Dealer"/>
+		<pos x="12606.141602" z="14697.177734" a="109.358389" y="108.508728" group="Piano_House_Arms_Dealer"/>
+		<pos x="12681.271484" z="9801.973633" a="231.43158" y="12.037996" group="Piano_House_Arms_Dealer"/>
+		<pos x="12739.956055" z="9595.719727" a="280.68818699999997" y="11.939144" group="Piano_House_Arms_Dealer"/>
+		<pos x="12812.684570" z="9881.541992" a="121.105701" y="12.049958" group="Piano_House_Arms_Dealer"/>
+		<pos x="12944.116211" z="10103.156250" a="293.039536" y="12.039968" group="Piano_House_Arms_Dealer"/>
+		<pos x="13855.522461" z="13338.712891" a="28.420540000000003" y="25.356503" group="Piano_House_Arms_Dealer"/>
+		<pos x="14015.201172" z="13336.930664" a="223.896774" y="9.923036" group="Piano_House_Arms_Dealer"/>
+		<pos x="14048.189453" z="13188.686523" a="209.373535" y="18.156637" group="Piano_House_Arms_Dealer"/>
+	</event>
+<!--cfgEventSpawns.xml---->	
+	<event name="Static_Arms_Dealer">
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>0</max>
+        <lifetime>2100</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>1000</distanceradius>
+        <cleanupradius>1000</cleanupradius>
+        <secondary>InfectedArmyHard</secondary>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children/>
+    </event>
